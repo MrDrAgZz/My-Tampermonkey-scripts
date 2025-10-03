@@ -7,8 +7,8 @@
 // @match        https://wargm.ru/server*
 // @match        http://wargm.ru/server*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/MrDrAgZz/your-repo-name/main/auto-vote-wargm-universal.user.js
-// @updateURL    https://raw.githubusercontent.com/MrDrAgZz/your-repo-name/main/auto-vote-wargm-universal.user.js
+// @downloadURL  https://raw.githubusercontent.com/MrDrAgZz/My-Tampermonkey-scripts/main/auto-vote-wargm-universal.user.js
+// @updateURL    https://raw.githubusercontent.com/MrDrAgZz/My-Tampermonkey-scripts/main/auto-vote-wargm-universal.user.js
 // ==/UserScript==
 
 (function() {
