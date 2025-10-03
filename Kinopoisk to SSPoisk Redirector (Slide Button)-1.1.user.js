@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kinopoisk to SSPoisk Redirector (Slide Button)
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Выдвижная кнопка для открытия текущей страницы на sspoisk.ru
 // @author       DrAgZz
 // @match        https://www.kinopoisk.ru/*
