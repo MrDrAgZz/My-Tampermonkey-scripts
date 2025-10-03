@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Vote for wargm.ru - Universal
 // @namespace    https://github.com/MrDrAgZz
-// @version      1.7
+// @version      1.8
 // @description  Универсальный скрипт для голосования на wargm.ru
 // @author       DrAgZz (MrDrAgZz)
 // @match        https://wargm.ru/server*
