@@ -4,6 +4,8 @@
 // @version      1.7
 // @description  Универсальный скрипт для голосования на wargm.ru
 // @author       DrAgZz(MrDrAgZz)
+// @downloadURL  https://raw.githubusercontent.com/MrDrAgZz/wargm-vote-script/main/auto-vote-wargm-universal.user.js
+// @updateURL    https://raw.githubusercontent.com/MrDrAgZz/wargm-vote-script/main/auto-vote-wargm-universal.user.js
 // @match        https://wargm.ru/server*
 // @match        http://wargm.ru/server*
 // @grant        none
